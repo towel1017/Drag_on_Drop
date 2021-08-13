@@ -1,1 +1,1 @@
-export { default as DragOnDrop } from "./DND";
+export { default as DragOnDrop } from "./DragOnDrop";
